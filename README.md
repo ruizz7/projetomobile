@@ -1,0 +1,2 @@
+# projetomobile
+cordova
